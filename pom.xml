@@ -11,8 +11,10 @@
 	<groupId>com.deviola</groupId>
 	<artifactId>taco-bench</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
+
 	<name>taco-bench</name>
-	<description>Spring Boot application for Taco Bench app</description>
+	<description>Spring Boot application for Taco Bench Company</description>
 
 	<properties>
 		<java.version>11</java.version>
